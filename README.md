@@ -1,3 +1,4 @@
 # Freedom-Attribution License
 
-自由なライセンスやで!
+It's frrdom license????
+
