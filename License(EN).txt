@@ -2,7 +2,7 @@ Freedom-Attribution License
 
 0. Summary
 
-0-1. **Ownership**: This repository contains ideas and concepts, and the author claims no ownership or intellectual property rights over its contents.
+0-1. **Ownership**: The author claims no ownership or intellectual property rights over its contents.
 
 0-2. **Usage Rights**: Users may use, modify, and redistribute the contents without restriction for any purpose, including personal and commercial use.
 
@@ -15,7 +15,7 @@ Freedom-Attribution License
 
 1. Details
 
-1-1. **This repository represents an "idea" or a collection of concepts, and the author does not claim any ownership or intellectual property rights over the contents.** Users are free to utilize the contents without restriction, as these are presented for open use and development without legal ownership by the author.
+1-1. **The author does not claim any ownership or intellectual property rights over the contents.** Users are free to utilize the contents without restriction, as they are presented for open use and development without legal ownership by the author.
 
 1-2. The contents of this repository may be used, modified, and redistributed unconditionally for any purpose, including personal and commercial use.
 
