@@ -1,2 +1,3 @@
-# Freedom-Attribution-License
-(EN) My original License. (JA) オリジナルのライセンス
+# Freedom-Attribution License
+
+自由なライセンスやで!
