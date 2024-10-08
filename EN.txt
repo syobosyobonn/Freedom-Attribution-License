@@ -24,10 +24,3 @@ Freedom-Attribution License
 1-4. The author and the team to which the author belongs shall not be held liable for any damages arising from the use, modification, redistribution, or any other utilization of this repository in any manner.
 
 1-5. This license shall not be construed as imposing any obligations on the user beyond those explicitly stated above.
-
-
-2. License
-
-2-1. This license permits reuse and redistribution but prohibits modification.
-
-2-2. However, if you change the license name and clearly state that it is a derivative of this license, modification and use are permitted.
