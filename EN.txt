@@ -2,7 +2,7 @@ Freedom-Attribution License
 
 0. Summary
 
-0-1. **Ownership**: The author claims no ownership or intellectual property rights over its contents.
+0-1. **Ownership**: The author claims no ownership or intellectual property rights over its this contents.
 
 0-2. **Usage Rights**: Users may use, modify, and redistribute the contents without restriction for any purpose, including personal and commercial use.
 
